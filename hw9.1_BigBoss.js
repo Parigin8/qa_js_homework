@@ -67,7 +67,7 @@ const company = {
 }
 
 //console.log(findValueByKey(company, 'Клієнт 1')); 
-//console.log(findValueByKey(company, 'Клієнт 1.2'));
+console.log(findValueByKey(company, 'Клієнт 1.2'));
 console.log(findValueByKey(company, 'Клієнт 1.2.3')); 
 //console.log(findValueByKey(company, 'Клієнт 2'));
 //console.log(findValueByKey(company, 'Клієнт 3'));
